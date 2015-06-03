@@ -34,3 +34,14 @@
 # 4. 善用論壇 #
 
 請多多利用 [MSDN 論壇 - Microsoft Azure PaaS 服務](https://social.msdn.microsoft.com/Forums/zh-TW/home?forum=2199) 的論壇來發問及交流。
+
+# 5. Azure 帳號建立失敗或其他設定問題的處理方式 #
+
+當您在建立 Azure 帳號過程中，遭遇一些問題 (例如：無法建立帳號、無法接收到驗證簡訊或是驗證後仍失敗等) 導致無法完成帳號建立時，請參考以下步驟，開立支援票證，以便讓微軟客戶支援服務團隊協助您。
+
+  1. 請登入此網址：http://bit.ly/1IeFUu1
+  2. 在 "Problem type:" 的下拉式選單內，選擇 "I cannot sign up for a new account" (若您遭遇其他的問題，可以選擇更符合您狀況的描述)。
+  3. 點選 "Start request" 按鈕。
+  4. 在 "Create an incident" 頁面中，確認您的聯絡資訊。所有欄位都正確填寫完成後，點選 "Continue" 按鈕。
+  5. 在 "Create an incident - describe the issue" 頁面中，描述您所遭遇的問題 (可使用中文)。所有欄位都填寫完成後，勾選下方的 "I accept the Agreement for Microsoft Services."，並點選 "Continue" 按鈕。
+  6. 完成後，您會收到微軟客戶技術服務團隊的來信或來電，以便協助您處理所遭遇的問題。
